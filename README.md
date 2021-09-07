@@ -1,4 +1,5 @@
 # Using JSON Web Tokens
+# Xaver Pinero
 
 ## Introduction
 
